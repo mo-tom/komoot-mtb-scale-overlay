@@ -65,4 +65,4 @@ The extension uses Manifest V3 and plain JavaScript/CSS. There is no build step.
 
 ## License
 
-No license file is included yet, so standard copyright applies. Others do not automatically have permission to redistribute or modify the code. A license should be chosen before inviting community contributions.
+This project is licensed under the [MIT License](LICENSE). You may use, copy, modify, distribute, sublicense, and sell copies of the software, subject to the license terms and inclusion of the copyright and permission notice.
