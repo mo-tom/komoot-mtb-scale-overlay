@@ -12,17 +12,18 @@ A browser extension that adds MTB trail difficulty highlighting and a continuous
 - Adjustable legend and visibility settings.
 - Supports Chrome and compatible Chromium browsers such as Brave.
 
-## Installation (manual / developer mode)
+## Install in Chrome or Brave
 
-The extension is not currently published in the Chrome Web Store.
+The extension is not currently published in the Chrome Web Store. Install it manually:
 
-1. Open the [latest release](https://github.com/mo-tom/komoot-mtb-scale-overlay/releases/latest) and download its ZIP file. If there is no release yet, click **Code → Download ZIP** on the repository page.
-2. Extract the ZIP file.
+1. On this repository page, click **Code → Download ZIP**.
+2. Extract the ZIP.
 3. Open `chrome://extensions` in Chrome or Brave.
-4. Enable **Developer mode**.
+4. Turn on **Developer mode**.
 5. Click **Load unpacked**.
-6. Select the extracted `komoot-mtb-scale-extension` folder — the folder that directly contains `manifest.json`.
-7. Open the extension's **Options** page to configure it.
+6. In the extracted repository folder, select the `komoot-mtb-scale-extension` folder — the folder that directly contains `manifest.json`.
+
+To update later, download and extract the latest repository ZIP, then use **Reload** on the extension card or remove the old unpacked extension and load the new folder. Your extension settings are stored locally by the browser, but keep your MapTiler API key somewhere safe before removing the extension.
 
 ## Configure MapTiler
 
