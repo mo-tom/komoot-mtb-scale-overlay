@@ -4,7 +4,7 @@ A browser extension that adds MTB trail difficulty highlighting and a continuous
 
 ## Why this extension exists
 
-When planning a mountain bike tour in Komoot, MTB Scale labels can be a useful source of information, but finding labeled trails isn't always straightforward. This extension makes them easier to find by highlighting them, keeping them visible even at overview zoom levels. A slope-gradient overlay can also be enabled for planned routes to show how steep the uphill and downhill sections are.
+When planning a mountain bike tour in Komoot, MTB Scale labels can be a useful source of information, but finding labeled trails isn't always straightforward. This extension makes them easier to find by highlighting them, keeping them visible even at overview zoom levels. A slope-gradient overlay can also be enabled for planned routes to show how steep the climbs and descents are.
 
 > Independent community project. Not affiliated with, endorsed by, or supported by Komoot.
 
